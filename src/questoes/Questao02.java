@@ -17,6 +17,7 @@ public class Questao02 {
 
 		char[] caracterEspeciais = { '!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '+' };
 
+		System.out.println("Digite nova senha: ");
 		String senha = entrada.next();
 
 		if (senha.length() >= 6) {

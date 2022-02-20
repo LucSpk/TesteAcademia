@@ -10,6 +10,7 @@ public class Questao01 {
 		
 		int qnt = 0;
 		
+		System.out.println("Digite o tamanho da escada: ");
 		entrada = new Scanner(System.in);
 		
 		qnt = entrada.nextInt();
