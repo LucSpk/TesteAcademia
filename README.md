@@ -11,9 +11,10 @@ A linguagem escolhida foi Java.
 --------------
 Para rodar o projeto você precisa fazer os senguintes comandos:
 
-
+```
 $ git clone https://github.com/LucSpk/TesteAcademiaCapgemini
 $ cd TesteAcademiaCapgemini
+```
 
 Abra o projeto no editor de sua preferência. Mas usaremos o eclipse como exemplo:
 * Utilizando o eclipse iremos fazer os seguintes passos:
